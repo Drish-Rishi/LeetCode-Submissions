@@ -1,3 +1,4 @@
+package Strings;
 
     // Appraoch : Brute Force
     // T.C : O(n)
